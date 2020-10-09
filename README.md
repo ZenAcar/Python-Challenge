@@ -30,7 +30,6 @@
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
-
 ## PyPoll
 
 ![Vote-Counting](Images/Vote_counting.png)
